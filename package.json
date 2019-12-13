@@ -14,7 +14,14 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "chart.js": "^2.9.3",
+    "chartjs-web-components": "^2.7.1",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.4.1",
     "vue": "^2.5.2",
+    "vue-chartjs": "^3.5.0",
+    "vue-google-charts": "^0.3.2",
+    "vue-morris": "^1.1.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
